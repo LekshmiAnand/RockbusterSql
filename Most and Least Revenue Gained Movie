@@ -1,4 +1,4 @@
-# MOST REVENUE GAINED MOVIES					
+## MOST REVENUE GAINED MOVIES					
 					
 SELECT D.title,SUM(amount)as total_revenue					
 FROM payment A					
@@ -10,7 +10,7 @@ ORDER BY total_revenue DESC
 LIMIT 10					
 					
 					
-# LEAST REVENUE GAINED MOVIES					
+## LEAST REVENUE GAINED MOVIES					
 					
 SELECT D.title,SUM(amount)as total_revenue					
 FROM payment A					
