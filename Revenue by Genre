@@ -1,4 +1,5 @@
-## REVENUE BY GENRE						
+## REVENUE BY GENRE	
+# Revenue by Genre
 						
 SELECT  F.name AS genre	,SUM(amount) AS total_revenue					
 FROM payment A						
