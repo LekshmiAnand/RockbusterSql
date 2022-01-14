@@ -1,4 +1,4 @@
-## **MOST REVENUE GAINED MOVIES**					
+## **# The MOST REVENUE GAINED MOVIES**					
 					
 SELECT D.title,SUM(amount)as total_revenue					
 FROM payment A					
