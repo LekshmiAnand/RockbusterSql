@@ -13,4 +13,8 @@ they expect data-driven answers that they can use for their 2020 company strateg
 * Which countries are Rockbuster customers based in?
 * Where are customers with a high lifetime value based?
 * Do sales figures vary between geographic regions?
+
+[Rockbuster dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
+
 Check my [Tableau presentation]( https://public.tableau.com/app/profile/lekshmi3616/viz/acheivement3/Story1) here
